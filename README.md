@@ -1,13 +1,93 @@
 <h1>Hi, I'm Jamil! <br/><a href="https://github.com/jharr222">Software QA Tester |</a> <a href="https://www.linkedin.com/in/joshmadakor/">Web & Healthcare App Testing |</a> <a href="https://www.linkedin.com/in/joshmadakor/">Manual & Automation (Selenium) </a></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1> </a> <a href="https://www.linkedin.com/in/joshmadakor/">
 
-<h2>👨‍💻 Software Testing Projects:</h2>
+<h2>👩🏽‍💻 Software Testing Projects:</h2>
 
-- <b>Zuri Solutions Website Testing</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Open EMR Website Testing</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-
+- <ins><b>Zuri Solutions Website Testing</b></ins>
+  - Project Overview: OpenEMR Patient Portal Testing
+
+Role & Responsibilities: Manual QA, test planning, execution, bug reporting, and test summary report
+
+Artifacts: Test Plan, Test Cases, Bug Reports, Test Summary Report
+
+Technologies/Tools Used: OpenEMR, Chrome/Firefox, Windows/macOS, Word/Excel
+
+
+- <ins><b>Open EMR Patient Portal Testing</b></ins>
+
+
+**Project Overview**
+
+This project demonstrates my QA testing skills by evaluating the OpenEMR Patient Portal, an open-source healthcare application widely used by clinics and hospitals. The goal was to validate core patient-facing functionalities and ensure usability, security, and compliance readiness.
+
+ **Objectives**
+
+* Validate authentication, patient dashboard, appointment management, medical records, secure messaging, prescriptions, and profile updates.
+
+* Ensure HIPAA-aligned security practices such as session management and access control.
+
+* Assess mobile responsiveness for patient usability.
+
+ **Tools & Environment**
+
+* Tools: JIRA (bug tracking), Microsoft Word (test plan/report), Excel/Google Sheets (test cases)
+
+* Browsers: Chrome, Firefox, Safari (desktop & mobile emulation)
+
+* OS: Windows 11
+
+* Application Version: OpenEMR v7.0.0 (Community Edition)
+
+**Deliverables**
+
+* Test Plan
+
+* Test Cases
+
+* Bug Reports
+
+* Test Summary Report
+
+* Test Execution Summary
+
+Total Test Cases: 46
+
+Passed: 43
+
+Failed: 3
+
+Blocked/Not Executed: 0
+
+Defects Found: 3 (1 Critical, 1 High, 1 Medium)
+
+ **Key Defects Logged**
  
+1. Test Case ID	Issue	Severity - UTH_TC_004	System accepted invalid password | High
+2. UTH_TC_005	Logout did not invalidate session |	Critical
+3. SM_TC_003 Secure message send button unresponsive with large attachments |	Medium
+
+**Key Findings**
+
+* Strong performance in dashboard navigation, appointments, and prescription history.
+
+* Logout session invalidation and input validation require fixes.
+
+* Mobile UI worked but needs improvements for icon clarity.
+
+ **Recommendations**
+
+* Implement server-side session timeout and strict cache controls.
+
+* Add user-friendly error handling for failed logins.
+
+* Enforce file size limits on secure message attachments.
+
+**Conclusion**
+
+This project demonstrates end-to-end QA testing for a healthcare web application, covering functional, UI, security, and mobile responsiveness testing. It highlights my ability to plan, execute, and report QA efforts with professional documentation.
+
+
 <h2>👨‍💻 Certifications:</h2>
+* ISTQB Certification - In Progress
 
 <h2>📺 Popular YouTube Videos</h2>
 
