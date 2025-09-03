@@ -1,15 +1,58 @@
-<h1>Hi, I'm Jamil! <br/><a href="https://github.com/jharr222">Software QA Tester |</a> <a href="https://www.linkedin.com/in/joshmadakor/">Web & Healthcare App Testing |</a> <a href="https://www.linkedin.com/in/joshmadakor/">Manual & Automation (Selenium) </a></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1> </a> <a href="https://www.linkedin.com/in/joshmadakor/">
+<h1>Hi, I'm Jamil! <br/><a href="https://github.com/jharr222">Software QA Tester |</a> <a href="https://www.linkedin.com/in/joshmadakor/">Web & Healthcare App Testing |</a> <a href="https://www.linkedin.com/in/joshmadakor/">Manual & Automation (Selenium) </a>
 
 <h2>👩🏽‍💻 Software Testing Projects:</h2>
 
-- <ins><b>Zuri Solutions Website Testing</b></ins>
-  - Project Overview: OpenEMR Patient Portal Testing
 
-Role & Responsibilities: Manual QA, test planning, execution, bug reporting, and test summary report
+<ins><b>Zuri Solutions Website Testing</b></ins>
 
-Artifacts: Test Plan, Test Cases, Bug Reports, Test Summary Report
+**Project Overview**
 
-Technologies/Tools Used: OpenEMR, Chrome/Firefox, Windows/macOS, Word/Excel
+This repository contains my QA Capstone Project for the Zuri Solutions Website, completed as part of my professional QA portfolio. The goal of this project was to apply the full Software Testing Life Cycle (STLC) — from requirements analysis through test closure — to ensure the quality and usability of the Zuri Solutions platform.
+
+**Project Contents**
+
+* Test Plan – Defines scope, objectives, strategy, environment, schedule, and risks.
+
+* Test Cases – Covers functional, usability, and compatibility testing.
+
+* Bug Reports – Documents defects discovered, with reproducible steps.
+
+* Test Summary Report – Captures execution results and recommendations.
+
+**Timeline Overview** – Testing phases from May 30 – June 30.
+
+**Testing Scope**
+
+**In Scope:**
+
+* Navigation (Home, About Us, Services, Mentorship Program, Blog, Contact Us)
+
+* Contact form validation and submission
+
+* Mentorship program checkout flow
+
+* Usability of buttons and links (e.g., “Let’s Get Started,” “Learn More”)
+
+* Cross-browser and mobile compatibility
+
+**Out of Scope:**
+
+* User login/registration (not available on site)
+
+* Backend database validation
+
+* Admin panel or infrastructure-level testing
+
+**Tools & Techniques**
+
+* Tools Used: Microsoft Word, Excel, GitHub
+
+* Testing Types: Functional, Usability, Compatibility
+
+* Defect Tracking: Structured bug reports with reproducible steps
+
+* Documentation: Professional QA artifacts for portfolio showcase
+
 
 
 - <ins><b>Open EMR Patient Portal Testing</b></ins>
