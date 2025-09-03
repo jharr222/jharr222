@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jamil! <br/><a href="https://github.com/jharr222">Software QA Tester |</a> <a href="https://www.linkedin.com/in/joshmadakor/">Web & Healthcare App Testing |</a> <a href="https://www.linkedin.com/in/joshmadakor/">Manual & Automation (Selenium, Postman) </a></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1> </a> <a href="https://www.linkedin.com/in/joshmadakor/">
+<h1>Hi, I'm Jamil! <br/><a href="https://github.com/jharr222">Software QA Tester |</a> <a href="https://www.linkedin.com/in/joshmadakor/">Web & Healthcare App Testing |</a> <a href="https://www.linkedin.com/in/joshmadakor/">Manual & Automation (Selenium) </a></a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1> </a> <a href="https://www.linkedin.com/in/joshmadakor/">
 
 <h2>👨‍💻 Software Testing Projects:</h2>
 
